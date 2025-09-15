@@ -15,5 +15,5 @@ I'm a thirteen-year-old programmer who loves figuring out how things work under 
 - Reverse engineering and understanding weird tech quirks
 
 ### Contact
-Generally, you can just [email me](amosbarsinai@gmail.com). You can also
+Generally, you can just [email me](mailto:amosbarsinai@gmail.com). You can also
  [open an issue on this repository](https://github.com/amosbarsinai/amosbarsinai/issues).
