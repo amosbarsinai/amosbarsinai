@@ -11,7 +11,7 @@ I'm a thirteen-year-old programmer who loves figuring out how things work under 
 ### Skills & Interests:
 - Programming: C++, Python, Assembly
 - Graphics & Multimedia
-- Linux tinkering (I use Gentoo btw😏)
+- Linux tinkering
 - Reverse engineering and understanding weird tech quirks
 
 ### Contact
