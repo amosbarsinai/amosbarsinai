@@ -11,6 +11,7 @@ I'm a thirteen-year-old programmer who loves figuring out how things work under 
 - 🚀 Experimenting with small OS-level projects and hacks
 
 ### Skills & Interests:
+- Math: I recently started learning a bit about neural networks and linear algebra through Grant Sanderson's courses.
 - Programming: C++, Python, Assembly
 - Graphics & Multimedia
 - Linux tinkering
