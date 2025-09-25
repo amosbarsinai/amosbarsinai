@@ -5,7 +5,7 @@
 I'm a thirteen-year-old programmer who loves figuring out how things work under the hood. I get way too excited about compilers, low-level code, and making my own tools instead of just using what’s already out there.
 
 ### What I'm up to:
-- ⚡ Messing around with compilers and Assembly
+- ⚡ Messing around with compilers and Assembly (I've tried making a compiler without LLVM a few times, I'm sure you can imagine how it went...)
 - 🖥️ Developing a multimedia library for Python in C++
 - 🕵️‍♂️ Solving issues around repos I use
 - 🚀 Experimenting with small OS-level projects and hacks
