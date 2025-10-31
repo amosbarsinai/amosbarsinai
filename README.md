@@ -6,8 +6,9 @@ I'm a thirteen-year-old programmer who loves figuring out how things work under 
 
 ### What I'm up to:
 - ⚡ Messing around with compilers and Assembly (I've tried making a compiler without LLVM a few times, I'm sure you can imagine how it went...)
-- 🖥️ Developing a multimedia library for Python in C++
+- 🖥️ Developing a terminal-based Gentoo installer
 - 🚀 Experimenting with small OS-level projects and hacks
+- 🇬 Setting up my Gentoo laptop (compiling kernels, etc...😏😏😏)
 
 ### Skills & Interests:
 - Math: I recently started learning a bit about neural networks and linear algebra through Grant Sanderson's courses.
