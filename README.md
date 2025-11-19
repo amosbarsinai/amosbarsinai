@@ -9,6 +9,7 @@ I'm a thirteen-year-old programmer who loves figuring out how things work under 
 - 🖥️ Developing a terminal-based Gentoo installer
 - 🚀 Experimenting with small OS-level projects and hacks
 - 🇬 Setting up my Gentoo laptop (compiling kernels, etc...😏😏😏)
+- ℚ I'm part of the Israel Junior Sciences team, so I have little time left for coding...
 
 ### Skills & Interests:
 - Math: I recently started learning a bit about neural networks and linear algebra through Grant Sanderson's courses.
