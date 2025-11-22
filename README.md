@@ -9,6 +9,7 @@ I'm a thirteen-year-old programmer who loves figuring out how things work under 
 - 🖥️ Developing a terminal-based Gentoo installer
 - 🚀 Experimenting with small OS-level projects and hacks
 - 🇬 Setting up my Gentoo laptop (compiling kernels, etc...😏😏😏)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=amosbarsinai&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ### Skills & Interests:
 - Math: I'm part of the soon-to-be Israel Junior IMO team, so naturally I play around with math a lot.
