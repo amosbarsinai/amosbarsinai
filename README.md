@@ -5,14 +5,13 @@
 I'm a thirteen-year-old programmer who loves figuring out how things work under the hood. I get way too excited about compilers, low-level code, and making my own tools instead of just using what’s already out there.
 
 ### What I'm up to:
-- ⚡ Messing around with compilers and Assembly (I've tried making a compiler without LLVM a few times, I'm sure you can imagine how it went...)
+- ⚡ Messing around with compilers and Assembly (I've tried making a compiler without LLVM a few times...)
 - 🖥️ Developing a terminal-based Gentoo installer
 - 🚀 Experimenting with small OS-level projects and hacks
 - 🇬 Setting up my Gentoo laptop (compiling kernels, etc...😏😏😏)
-- ℚ I'm part of the Israel Junior Sciences team, so I have little time left for coding...
 
 ### Skills & Interests:
-- Math: I recently started learning a bit about neural networks and linear algebra through Grant Sanderson's courses.
+- Math: I'm part of the soon-to-be Israel Junior IMO team, so naturally I play around with math a lot.
 - Programming: C++, Python, Assembly
 - Graphics & Multimedia
 - Linux tinkering
